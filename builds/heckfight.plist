@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropbox.com/s/129hff4inyoq1q6/PIMD.ipa</string>
+					<string>https://heckfighter.github.io/builds/heckfight.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tofulabs.pimd-ah</string>
+				<string>ata.kraken.heckfire-beta</string>
 				<key>bundle-version</key>
-				<string>3.81</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Party in My Dorm</string>
+				<string>HECKFIGHTER</string>
 			</dict>
 		</dict>
 	</array>
